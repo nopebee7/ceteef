@@ -464,9 +464,4 @@ Di ceritakan bahwa mimin ctfr dahulu adalah player sql :v. Disini saya coba coba
 
 
 
-
-
-
-
-
-
+### Copyright 2021 nopebee7@skullxploit
