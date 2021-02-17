@@ -1,4 +1,4 @@
-## ctf.rajawalisecteam.tech All WriteUp
+## ctf.rajawalisecteam.tech WriteUp
 
 #### BIN & NER
 Soal :
@@ -131,6 +131,23 @@ FILE : https://ctf.rajawalisecteam.tech/challenges/uploads/flag.jpeg
 HINT : building name
 ```
 
+#### NAMA HOST
+Soal :
+```
+Aku di beri alamat web oleh seseorang dia menyuruhku mencari hostname dari web tersebut, dapat kah kamu membantu ku?
+URL : 202.56.164.179
+```
+Melihat hostname dari sebuah IP kita bisa gunakan suatu tools bernama *Reverse DNS*. Bisa pake <a target="_blank" href="https://dnschecker.org/reverse-dns.php">dnschecker.org</a><br>
+`FLAG : CTFRST{host-202-56-164-179.idp.net.id}`
 
+
+#### BIB
+Soal :
+```
+Hai nama aku "Cipher" dan aku mendapatkan pesan tersembunyi dari seseorang,sebelum dia pergi dia mengatakan "BIB" secara ber'ulang² 
+URL : https://pastebin.com/dmDZWGtV
+```
+Kalian dapat dengan mudah mendecode nya di website <a target="_blank" href="http://tools.socialindo.my.id/encdec/bib-cipher">tools.socialindo.my.id</a><br>
+`FLAG : `
 
 ### Copyright 2021 nopebee7(@)skullxploit
