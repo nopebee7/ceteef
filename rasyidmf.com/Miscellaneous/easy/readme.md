@@ -29,7 +29,6 @@ Kalian tidak perlu susah susah untuk mencari flag nya. Cukup gunakan Developer T
 `FLAG : CTFR{l0c4l_st0r4g3_1s_u5efu11}`
 
 
-
 #### BONUS 1
 Soal :
 ```
@@ -52,7 +51,8 @@ umum sebagian besar tidak menyadari bahwa ada makna yang berbeda.[3] sementara p
 orang-orang dari subkultur pemrograman menganggap penggunaan komputer terkait intrusi tidak benar, dan menekankan perbedaan antara keduanya dengan menyebut pembobol keamanan "Cracker" (analOg dengan safecracker). 
 Maupun hacker atau cracker, mereka sangat menyukai teks qeJdZ4wM. 
 ```
-
+Apakah kalian melihat ada huruf yang berbeda di sebuah kata??.. Ya, kalau kita rangkai huruf itu akan menjadi *PASTEBINCOM*, emm apakah ini <a target="_blank" href="https://pastebin.com/">pastebin.com</a>??. Di akhir kata bahwa mereka meyukai teks *qeJdZ4wM*. Emm jika kita rangkai kembali itu akan menjadi <a target="_blank" href="https://pastebin.com/qeJdZ4wM">pastebin.com/qeJdZ4wM</a>. <br>
+`FLAG : CTFR{f0cu5_1f_y0u_w4nt_w1n}`
 
 #### BONUS 2
 Soal :
@@ -96,7 +96,14 @@ URL : https://chat.whatsapp.com/DixNGKm7ahLFubBCQUO1NR
 Sama seperti soal bonus lain nya, kalian dapat dengan mudah mendapatkan flag nya.<br>
 `FLAG : CTFR{b0nu5_t1g4}`
 
-
+#### LUPA PASS FILE
+Soal :
+```
+Mimin lupa pass file ini, padahal didalam file ini ada flag :(, Bisa bantu carikan gak passwordnya.
+Download : https://mega.nz/#!J8hUiRCb!f3yAsw4R0U8WNJ8ssNphAAjWQHVi7IPKLzEeM40Z13A
+```
+Yahh si mimin lupa password nya. Tapi tenang disini saya pake tools *fcrackzip* untuk membruteforce password dari fil zip tersebut, disini juga saya mengunakan wordlist *rockyou.txt* yang memang kedua nya udah ada di Kali Linux.<br>
+`FLAG : CTFR{ju5t_cr4ck_1t_m4t3}`
 
 
 ### Copyright 2021 nopbee7(@)skullxploit
